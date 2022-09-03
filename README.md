@@ -53,3 +53,4 @@ md5(md5(resId) + token)
 
 如果实例部署在 `https://example.com`，则访问地址为 `https://example.com/?res=ResID&sign=签名`
 
+test
